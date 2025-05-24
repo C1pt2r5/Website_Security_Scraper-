@@ -36,6 +36,10 @@ This project requires the requests library for making HTTP requests and beautifu
 Bash
 
 pip install requests beautifulsoup4
+
+
+
+
 Usage
 Run the Script:
 Navigate to the directory where you saved security_scraper.py in your terminal or command prompt and run:
@@ -43,7 +47,11 @@ Navigate to the directory where you saved security_scraper.py in your terminal o
 Bash
 
 python security_scraper.py
-Enter URL:
+
+
+Enter URL:  
+
+
 The script will prompt you to enter the URL of the website you wish to scan:
 
 Enter the URL to scan (e.g., https://example.com) or 'exit' to quit:
